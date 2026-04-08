@@ -1,0 +1,8 @@
+# Terraform directories & state
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.backup
+terraform/*.tfplan
+
+# OS / editor junk
+.DS_Store
